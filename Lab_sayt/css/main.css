@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tinos&display=swap");
+                     /* header
+=================*/
+.color {
+  background-color: #6C757D; }
+
+.carousel-item {
+  width: 900px; }
+
+/* LINE
+=================*/
+.main_photo {
+  background-image: url("photo/dress.jpg");
+  background-color: #cccccc; }
+
+.line {
+  margin-top: 13px;
+  width: 35px;
+  height: 0;
+  border: 1px solid #000000;
+  transform: rotate(90deg); }
+
+/* NAV
+=================*/
+.collapse {
+  margin-bottom: -5px;
+  margin-top: 10px; }
+
+.nav__link {
+  margin-left: 5px;
+  font-size: 14px;
+  font-family: "Open Sans";
+  color: #FFFFFF;
+  font-weight: 700;
+  text-decoration: none;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+  padding: 3px; }
+
+.navbar-brand {
+  color: #212529;
+  font-weight: 800; }
+
+/* PHONE__NUMBER
+=================*/
+.phone__number {
+  margin-left: 3px;
+  color: #FFFFFF;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 12px; }
+
+/* BUY__BUTTON
+=================*/
+.btn {
+  margin-left: 905px;
+  width: 132px;
+  border: none; }
+
+.btn-2 {
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  transition: color 0.15s; }
+
+/* BACK__ING
+=================*/
+.text_inro {
+  margin-top: -90px;
+  margin-left: -170px; }
+
+.intro__text__1 {
+  margin-top: 192px;
+  margin-left: 799px;
+  font-size: 158px;
+  font-family: "Tinos";
+  font-weight: 400;
+  color: #212529; }
+
+/* BOX
+=================*/
+.box {
+  margin-left: 70px;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row; }
+
+.mini__box {
+  margin-top: 160px;
+  margin-right: 100px;
+  width: 349px;
+  height: 328px;
+  background-color: #DEE2E6;
+  box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+  transition: 0.4s;
+  border-radius: 60px 10px; }
+
+/* BOX_MINI
+ =================*/
+.mini__box__main {
+  margin-top: 30px;
+  text-align: center;
+  color: #000000;
+  font-family: "Tinos";
+  font-size: 26px;
+  font-weight: 400; }
+
+.mini__box__secondary {
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #656363;
+  font-family: "Tinos";
+  font-size: 16px;
+  font-weight: 400; }
+
+/* FOOD__ITEM
+=================*/
+.main_photo {
+  background-image: url();
+  margin-left: 700px;
+  margin-top: -420px;
+  display: flex;
+  flex-direction: row; }
+
+.push {
+  color: currentColor;
+  opacity: 0.5;
+  text-decoration: none; }
+
+/*# sourceMappingURL=main.css.map */

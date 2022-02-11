@@ -1,0 +1,30 @@
+.push {
+  color: currentColor;
+  opacity: 0.5;
+  text-decoration: none; }
+
+.photo {
+  margin-top: 100px;
+  margin: 100px;
+  height: 100px;
+  width: 900px; }
+
+.photo {
+  width: 700px;
+  height: 500px;
+  margin: 0;
+  padding: 0; }
+
+.box {
+  display: flex;
+  justify-content: space-around; }
+
+.text {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-right: 150px; }
+
+.btn {
+  margin-left: 450px; }
+
+/*# sourceMappingURL=vive.css.map */
